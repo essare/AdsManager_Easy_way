@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ads testing project</string>
+
+    <!-- Admob Banner dyalk hna !!!-->
+    <string name="admob_banner_id">ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx</string>
+
+    <!-- Admob Native dyalk hna !!!-->
+    <string name="admob_native_ads">ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx</string>
+
+</resources>
